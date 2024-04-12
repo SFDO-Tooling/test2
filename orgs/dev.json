@@ -1,6 +1,6 @@
 {
   "orgName": "test2 - Dev Org",
-  "edition": "Developer",
+  "template": "0TTWs0000000L7h",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
